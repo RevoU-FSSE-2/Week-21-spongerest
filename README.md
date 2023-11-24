@@ -1,7 +1,5 @@
 # Twitter BackEnd App Using Python Flask
 
-Brief description of your project.
-
 ## Installation
 
 To set up the project, follow these steps:
@@ -49,7 +47,7 @@ Run the Flask application:
 flask run
 ```
 
-# Database Setup for Your Flask Application
+# Database Setup for Flask Application
 
 This module (`db.py`) contains the configuration for Flask application's database using Flask-SQLAlchemy.
 
